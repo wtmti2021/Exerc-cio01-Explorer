@@ -5,3 +5,6 @@ Desafio sendo executado a partir do nível 04, do Explorer da rocktseat. Neste d
 - A multiplicação dos dois números; 
 - A divisão dos dois números; 
 - O resto da divisão dos dois números;
+
+- [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
+- [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
