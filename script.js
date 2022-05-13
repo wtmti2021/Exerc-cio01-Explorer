@@ -13,7 +13,7 @@ alert("A multiplicação dos dois números é: " + mult)
 alert("A divisão dos dois números é: " + div)
 alert("O resto da divisão dos dois números é: " + restDiv)
 
-if (restDiv == 0) {
+if (sum%2 == 0) {
   alert("A soma dos dois números é par!")
 } else {
   alert("A soma dos dois números é impar!")
